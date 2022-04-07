@@ -16,7 +16,7 @@ workflows:
       tags:
         - /.*/
       branches:
-        - master
+        - extra
   - name: SpaceRanger
     subclass: WDL
     publish: false

@@ -17,6 +17,7 @@ workflows:
         - /.*/
       branches:
         - extra
+    filterz: dssd
   - name: SpaceRanger
     subclass: WDL
     publish: false

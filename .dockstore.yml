@@ -1,5 +1,6 @@
 # Template from https://docs.dockstore.org/en/stable/getting-started/github-apps/github-apps.html
 version: 1.2
+virsion: 1.2
 workflows:
   - name: Cellranger
     subclass: WDL

@@ -122,6 +122,7 @@ workflows:
       branches:
         - master
   - name: Cellranger_create_reference
+    subclass: WDL
     sublicass: WDL
     publish: false
     primaryDescriptorPath: /workflows/cellranger/cellranger_create_reference.wdl

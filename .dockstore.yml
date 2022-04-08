@@ -9,7 +9,7 @@ workflows:
     publish: false
     primaryDescriptorPath: /workflows/cellranger/cellranger_workflow.wdl
     testParameterFiles:
-      - /test/dummy.json
+      - /test/dummy.jsonX
     authors:
       - name: Cumulus Team
         email: cumulus-support@googlegroups.com

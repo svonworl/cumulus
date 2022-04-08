@@ -1,6 +1,7 @@
 # Template from https://docs.dockstore.org/en/stable/getting-started/github-apps/github-apps.html
 version: 1.2
 virsion: 1.2
+versin: 1.2
 workflowz:
 workflows:
   - name: Cellranger
